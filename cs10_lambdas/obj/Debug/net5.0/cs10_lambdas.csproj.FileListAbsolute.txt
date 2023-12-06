@@ -1,0 +1,16 @@
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\bin\Debug\net5.0\cs10_lambdas.exe
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\bin\Debug\net5.0\cs10_lambdas.deps.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\bin\Debug\net5.0\cs10_lambdas.runtimeconfig.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\bin\Debug\net5.0\cs10_lambdas.runtimeconfig.dev.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\bin\Debug\net5.0\cs10_lambdas.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\bin\Debug\net5.0\cs10_lambdas.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.csproj.AssemblyReference.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.AssemblyInfoInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.AssemblyInfo.cs
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.csproj.CoreCompileInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\refint\cs10_lambdas.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\cs10_lambdas.genruntimeconfig.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\cs10_lambdas\cs10_lambdas\obj\Debug\net5.0\ref\cs10_lambdas.dll
